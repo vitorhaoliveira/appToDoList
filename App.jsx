@@ -1,10 +1,10 @@
 import { NavigationContainer } from "@react-navigation/native";
-import Routes from "./Routes/Routes";
+import RoutesLogin from "./Routes/RoutesLogin";
 
 function App() {
   return (
     <NavigationContainer>
-      <Routes />
+      <RoutesLogin />
     </NavigationContainer>
   );
 }

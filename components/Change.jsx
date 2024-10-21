@@ -56,6 +56,7 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         padding: 16,
+        backgroundColor: '#B6BBDC',
     },
     tittle: {
         fontSize: 25,

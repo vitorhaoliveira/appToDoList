@@ -17,6 +17,7 @@ function RoutesLogin() {
             <Stack.Screen 
                 name="Routes" 
                 component={Routes} 
+                options={{ headerShown: false }}
             />
         </Stack.Navigator>
     );
